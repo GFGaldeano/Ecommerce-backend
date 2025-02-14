@@ -3,7 +3,7 @@
 ### **Autor**: GUSTAVO FEDERICO GALDEANO
 
 
-### ** Tecnologías utilizadas**:
+### **Tecnologías utilizadas**:
 
 ![Descripción de la imagen](back/src/assets/proyecto-integrador-tecnologias.png) 
 
